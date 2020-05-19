@@ -725,3 +725,4 @@ the following process:
 3. Update the pinned kube-prometheus dependency in `jsonnetfile.lock.json`: `jb update`
 3. Generate dependent `*.yaml` files: `make generate`
 4. Commit the generated changes.
+...
